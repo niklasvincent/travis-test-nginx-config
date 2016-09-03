@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nlindblad/travis-test-nginx-config.svg?branch=master)](https://travis-ci.org/nlindblad/travis-test-nginx-config)
 # travis-test-nginx-config
 
 The `test-nginx-config.sh` script will:
