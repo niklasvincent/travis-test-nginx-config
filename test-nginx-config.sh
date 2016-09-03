@@ -2,7 +2,7 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 NGINX_CONFIG_LOG="/tmp/nginx-config-check.log"
-NGINX_CACHE_DIR="${DIR}/../nginx-cache"
+NGINX_CACHE_DIR="${DIR}/nginx-cache"
 NGINX_BINARY="${NGINX_CACHE_DIR}/nginx"
 NGINX_DEB_URL="https://nginx.org/packages/ubuntu/pool/nginx/n/nginx/nginx_1.10.0-1~trusty_amd64.deb"
 #NGINX_DEB_URL="https://launchpad.net/~ondrej/+archive/ubuntu/nginx-mainline/+build/10448355/+files/nginx-light_1.11.2-1~exp1+deb.sury.org~trusty+3_amd64.deb"
